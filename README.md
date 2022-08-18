@@ -5,20 +5,24 @@
 
 
 
-# Screenshots
+## Screenshots
+
+![alt text](./Assets/21-mern-homework-demo-01.gif)
+
+![alt text](./Assets/21-mern-homework-demo-02.gif)
+
+![alt text](./Assets/21-mern-homework-demo-03.gif)
 
 
 
 ## Tech/Framework
 
 
-### How to Use
+## How to Use
 
+npm start
 
 ## Features
-
-
-
 
 
 
